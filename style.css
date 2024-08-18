@@ -1,0 +1,31 @@
+.blok{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+header{
+    background-color: #ff9500;
+}
+.title{
+    margin-top: 30px;
+}
+.text-main{
+    font-weight: 700;
+    font-size: 90px;
+    color: #ff9500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: #ff9500; 
+}
+.box{
+    display: block;
+}
